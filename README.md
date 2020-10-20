@@ -5,11 +5,9 @@
 
 ## I'm a Frontend, UI Design, Developer, and Illustrator!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I am an accomplished Design and Programmer
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love play football
 
 ### Spotify Playing 🎧
 
