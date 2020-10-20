@@ -1,7 +1,7 @@
 ### Hi there, I'm [Rezki Pratama][website] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/github/followers/:user?label=Follow)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Frontend, UI Design, Developer, and Illustrator!!
 
@@ -13,11 +13,11 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="rezkipratama Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="rezkipratama.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="RezkiPratama | Dribble" width="22px" src="https://simpleicons.org/icons/dribbble.svg" />][dribble]
 [<img align="left" alt="RezkiPratama | Behance" width="22px" src="https://simpleicons.org/icons/behance.svg" />][behance]
 [<img align="left" alt="RezkiPratama | Facebook" width="22px" style="color:red;" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
@@ -90,7 +90,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rezki-Pratama&show_icons=true&hide_border=true&theme=dark" />
+  <img align="left" alt="rezkipratama GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rezki-Pratama&show_icons=true&hide_border=true&theme=dark" />
 
 </details>
 
@@ -98,7 +98,6 @@
 [dribble]: https://dribbble.com/RezkiPratama
 [behance]: https://www.behance.net/rezkipratama
 [facebook]: https://www.facebook.com/RezkiPratama6
-[youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/rezkipratama6
 [linkedin]: https://www.linkedin.com/in/rezkipratama
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
