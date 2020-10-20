@@ -19,6 +19,7 @@
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="RezkiPratama | Dribble" width="22px" src="https://simpleicons.org/icons/dribbble.svg" />][dribble]
+[<img align="left" alt="RezkiPratama | Behance" width="22px" src="https://simpleicons.org/icons/behance.svg" />][behance]
 [<img align="left" alt="RezkiPratama | Facebook" width="22px" style="color: #187f2" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
 [<img align="left" alt="RezkiPratama | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="RezkiPratama | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -94,7 +95,8 @@
 </details>
 
 [website]: http://rezkipratama.netlify.app/
-[course]: http://vsCodeHero.com
+[dribble]: https://dribbble.com/RezkiPratama
+[behance]: https://www.behance.net/rezkipratama
 [facebook]: https://www.facebook.com/RezkiPratama6
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/rezkipratama6
