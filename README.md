@@ -52,12 +52,16 @@
 - **[diBajolbae](https://www.rezkipratama.com)** — Fresh produce marketplace for Palembang with driver & merchant apps · *Kotlin · Flutter* · _discontinued_
 - **[Loko](https://www.rezkipratama.com)** — Company profile website for a digital transformation IT company · *Vue.js*
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### ⚡ GitHub Stats
 
-  <img align="left" alt="rezkipratama GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rezki-Pratama&show_icons=true&hide_border=true&theme=dark" />
+<a href="https://github.com/Rezki-Pratama">
+  <img height="165" alt="Rezki Pratama's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rezki-Pratama&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" />
+</a>
+<a href="https://github.com/Rezki-Pratama">
+  <img height="165" alt="Rezki Pratama's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezki-Pratama&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+</a>
 
-</details>
+![GitHub Streak](https://streak-stats.demolab.com?user=Rezki-Pratama&hide_border=true&theme=transparent)
 
 [website]: https://www.rezkipratama.com
 [email]: mailto:rezki.pratama7777@gmail.com
