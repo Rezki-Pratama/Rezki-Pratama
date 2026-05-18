@@ -1,12 +1,10 @@
 ### Hi there, I'm [Rezki Pratama][website] 👋
 
-## I'm a Frontend Developer!!
+## I'm a Software Engineer — specializing in mobile & web
 
 - 🌏 Based in Palembang, Indonesia — remote available
 - 🎓 Bachelor's degree in Information Systems
-- 💻 I build mobile and web products — native on iOS & Android, modern on the web
-- 🔭 Currently working on **StockResearch**, **CoinResearch**, **SiBerat**, and **Loko**
-- 🌱 Always learning — exploring Next.js, Vue.js, and AI-assisted workflows
+- 📱 Native on iOS & Android, modern on the web
 - ✍️ I care about clean, readable code and end-to-end ownership of features
 - 💼 Open to work
 - ⚡ Fun fact: I love playing football
@@ -47,12 +45,14 @@
 <br />
 <br />
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
-- **[StockResearch](https://www.rezkipratama.com)** — AI-powered stock analysis platform
-- **[CoinResearch](https://www.rezkipratama.com)** — Crypto research platform
-- **[SiBerat](https://www.rezkipratama.com)** — B2B logistics platform across Indonesia
-- **[Loko](https://www.rezkipratama.com)** — Company website for a digital transformation firm
+- **[StockResearch](https://www.rezkipratama.com)** — AI-powered stock research platform with analysis, sentiment, earnings, fundamentals, news & price prediction · *Flutter · Web · Android · iOS*
+- **[CoinResearch](https://www.rezkipratama.com)** — AI-powered crypto research platform with Core AI assistant, sentiment analysis, trade setups & in-depth research tools · *Flutter · Web · Android · iOS*
+- **[SiBerat](https://www.rezkipratama.com)** — B2B heavy-equipment logistics platform with vendor, driver & trucking apps across Indonesia · *Kotlin · Flutter*
+- **[Loko](https://www.rezkipratama.com)** — Company profile website for a digital transformation IT company · *Vue.js*
+- **[Gak Gendut Lagi (GGL)](https://www.rezkipratama.com)** — Health & fitness app with meal plans, calorie counter, workouts, step counter & mentorship · *Flutter* · _discontinued_
+- **[diBajolbae](https://www.rezkipratama.com)** — Fresh produce marketplace for Palembang with driver & merchant apps · *Kotlin · Flutter* · _discontinued_
 
 <details>
   <summary>:zap: GitHub Stats</summary>
