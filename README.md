@@ -54,14 +54,11 @@
 
 ### ⚡ GitHub Stats
 
-<a href="https://github.com/Rezki-Pratama">
-  <img height="165" alt="Rezki Pratama's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rezki-Pratama&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" />
-</a>
-<a href="https://github.com/Rezki-Pratama">
-  <img height="165" alt="Rezki Pratama's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezki-Pratama&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
-</a>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Rezki-Pratama&theme=flat&no-frame=true&margin-w=8&row=1&column=7)](https://github.com/Rezki-Pratama)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Rezki-Pratama&hide_border=true&theme=transparent)
+[![Rezki's Streak](https://streak-stats.demolab.com?user=Rezki-Pratama&hide_border=true&theme=transparent)](https://github.com/Rezki-Pratama)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rezki-Pratama&bg_color=00000000&hide_border=true&line=4f46e5&point=ec4899&area=true&area_color=4f46e5)](https://github.com/Rezki-Pratama)
 
 [website]: https://www.rezkipratama.com
 [email]: mailto:rezki.pratama7777@gmail.com
