@@ -25,7 +25,7 @@
 
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.simpleicons.org/javascript/F7DF1E" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.simpleicons.org/html5/E34F26" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.simpleicons.org/css3/1572B6" />][website]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.simpleicons.org/css/1572B6" />][website]
 [<img align="left" alt="Sass" width="26px" src="https://cdn.simpleicons.org/sass/CC6699" />][website]
 [<img align="left" alt="Tailwind CSS" width="26px" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" />][website]
 [<img align="left" alt="Bootstrap" width="26px" src="https://cdn.simpleicons.org/bootstrap/7952B3" />][website]
@@ -37,10 +37,10 @@
 [<img align="left" alt="Flutter" width="26px" src="https://cdn.simpleicons.org/flutter/02569B" />][website]
 [<img align="left" alt="Firebase" width="26px" src="https://cdn.simpleicons.org/firebase/FFCA28" />][website]
 [<img align="left" alt="Figma" width="26px" src="https://cdn.simpleicons.org/figma/F24E1E" />][website]
-[<img align="left" alt="Adobe XD" width="26px" src="https://cdn.simpleicons.org/adobexd/FF61F6" />][website]
+[<img align="left" alt="Adobe XD" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />][website]
 [<img align="left" alt="Git" width="26px" src="https://cdn.simpleicons.org/git/F05032" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.simpleicons.org/github/_auto" />][website]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" />][website]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />][website]
 
 <br />
 <br />
