@@ -15,9 +15,7 @@
 [<img align="left" alt="RezkiPratama | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" />][email]
 [<img align="left" alt="RezkiPratama | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="RezkiPratama | Dribble" width="22px" src="https://simpleicons.org/icons/dribbble.svg" />][dribble]
-[<img align="left" alt="RezkiPratama | Behance" width="22px" src="https://simpleicons.org/icons/behance.svg" />][behance]
 [<img align="left" alt="RezkiPratama | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="RezkiPratama | Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -49,10 +47,10 @@
 
 - **[StockResearch](https://www.rezkipratama.com)** — AI-powered stock research platform with analysis, sentiment, earnings, fundamentals, news & price prediction · *Flutter · Web · Android · iOS*
 - **[CoinResearch](https://www.rezkipratama.com)** — AI-powered crypto research platform with Core AI assistant, sentiment analysis, trade setups & in-depth research tools · *Flutter · Web · Android · iOS*
-- **[SiBerat](https://www.rezkipratama.com)** — B2B heavy-equipment logistics platform with vendor, driver & trucking apps across Indonesia · *Kotlin · Flutter*
-- **[Loko](https://www.rezkipratama.com)** — Company profile website for a digital transformation IT company · *Vue.js*
 - **[Gak Gendut Lagi (GGL)](https://www.rezkipratama.com)** — Health & fitness app with meal plans, calorie counter, workouts, step counter & mentorship · *Flutter* · _discontinued_
+- **[SiBerat](https://www.rezkipratama.com)** — B2B heavy-equipment logistics platform with vendor, driver & trucking apps across Indonesia · *Kotlin · Flutter*
 - **[diBajolbae](https://www.rezkipratama.com)** — Fresh produce marketplace for Palembang with driver & merchant apps · *Kotlin · Flutter* · _discontinued_
+- **[Loko](https://www.rezkipratama.com)** — Company profile website for a digital transformation IT company · *Vue.js*
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -64,7 +62,5 @@
 [website]: https://www.rezkipratama.com
 [email]: mailto:rezki.pratama7777@gmail.com
 [dribble]: https://dribbble.com/RezkiPratama
-[behance]: https://www.behance.net/rezkipratama
-[facebook]: https://www.facebook.com/RezkiPratama6
 [instagram]: https://www.instagram.com/rezkipratama6
 [linkedin]: https://www.linkedin.com/in/rezkipratama
